@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://rahul9852-dot.github.io/csb-eepyd/static/css/main.70653269.chunk.css",
+    "main.js": "https://rahul9852-dot.github.io/csb-eepyd/static/js/main.8ea55365.chunk.js",
+    "main.js.map": "https://rahul9852-dot.github.io/csb-eepyd/static/js/main.8ea55365.chunk.js.map",
+    "runtime-main.js": "https://rahul9852-dot.github.io/csb-eepyd/static/js/runtime-main.e25d0fb2.js",
+    "runtime-main.js.map": "https://rahul9852-dot.github.io/csb-eepyd/static/js/runtime-main.e25d0fb2.js.map",
+    "static/css/2.84359848.chunk.css": "https://rahul9852-dot.github.io/csb-eepyd/static/css/2.84359848.chunk.css",
+    "static/js/2.da93a664.chunk.js": "https://rahul9852-dot.github.io/csb-eepyd/static/js/2.da93a664.chunk.js",
+    "static/js/2.da93a664.chunk.js.map": "https://rahul9852-dot.github.io/csb-eepyd/static/js/2.da93a664.chunk.js.map",
+    "index.html": "https://rahul9852-dot.github.io/csb-eepyd/index.html",
+    "static/css/2.84359848.chunk.css.map": "https://rahul9852-dot.github.io/csb-eepyd/static/css/2.84359848.chunk.css.map",
+    "static/css/main.70653269.chunk.css.map": "https://rahul9852-dot.github.io/csb-eepyd/static/css/main.70653269.chunk.css.map",
+    "static/js/2.da93a664.chunk.js.LICENSE.txt": "https://rahul9852-dot.github.io/csb-eepyd/static/js/2.da93a664.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e25d0fb2.js",
+    "static/css/2.84359848.chunk.css",
+    "static/js/2.da93a664.chunk.js",
+    "static/css/main.70653269.chunk.css",
+    "static/js/main.8ea55365.chunk.js"
+  ]
+}
